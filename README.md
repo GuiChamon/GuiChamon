@@ -1,4 +1,4 @@
-## Ola me chamo Guilhemrme 👋
+## Ola me chamo Guilherme 👋
 
 **Programa de Trainees Full Stack:** Participei ativamente do programa de trainees full stack, onde adquiri habilidades abrangentes em desenvolvimento de software, desde o frontend até o backend, fortalecendo minha capacidade de contribuir em projetos de ponta a ponta.
 
